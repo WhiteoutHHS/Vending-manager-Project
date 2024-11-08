@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bosni\\OneDrive\\Desktop\\VendingManager\\VendingManager\\VendingManager.csproj",
-      "projectName": "VendingManager",
-      "projectPath": "C:\\Users\\bosni\\OneDrive\\Desktop\\VendingManager\\VendingManager\\VendingManager.csproj",
+      "projectUniqueName": "C:\\Users\\bosni\\OneDrive\\Desktop\\VendingManager\\VendingManager\\VendingManagerProject.csproj",
+      "projectName": "VendingManagerProject",
+      "projectPath": "C:\\Users\\bosni\\OneDrive\\Desktop\\VendingManager\\VendingManager\\VendingManagerProject.csproj",
       "packagesPath": "C:\\Users\\bosni\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bosni\\OneDrive\\Desktop\\VendingManager\\VendingManager\\obj\\",
       "projectStyle": "PackageReference",

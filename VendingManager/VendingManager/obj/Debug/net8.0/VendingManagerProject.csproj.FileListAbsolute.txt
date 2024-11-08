@@ -1,0 +1,14 @@
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\obj\Debug\net8.0\VendingManagerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\obj\Debug\net8.0\VendingManagerProject.AssemblyInfoInputs.cache
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\obj\Debug\net8.0\VendingManagerProject.AssemblyInfo.cs
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\obj\Debug\net8.0\VendingManagerProject.csproj.CoreCompileInputs.cache
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\bin\Debug\net8.0\VendingManagerProject.exe
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\bin\Debug\net8.0\VendingManagerProject.deps.json
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\bin\Debug\net8.0\VendingManagerProject.runtimeconfig.json
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\bin\Debug\net8.0\VendingManagerProject.dll
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\bin\Debug\net8.0\VendingManagerProject.pdb
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\obj\Debug\net8.0\VendingManagerProject.dll
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\obj\Debug\net8.0\refint\VendingManagerProject.dll
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\obj\Debug\net8.0\VendingManagerProject.pdb
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\obj\Debug\net8.0\VendingManagerProject.genruntimeconfig.cache
+C:\Users\bosni\OneDrive\Desktop\VendingManager\VendingManager\obj\Debug\net8.0\ref\VendingManagerProject.dll
